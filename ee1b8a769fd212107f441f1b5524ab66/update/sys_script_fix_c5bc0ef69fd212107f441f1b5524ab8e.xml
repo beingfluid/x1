@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description>xq</description>
+        <name>x1</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[//x1]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-09 20:18:49</sys_created_on>
+        <sys_id>c5bc0ef69fd212107f441f1b5524ab8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x1</sys_name>
+        <sys_package display_value="x1" source="x_cdltd_x1">ee1b8a769fd212107f441f1b5524ab66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="x1">ee1b8a769fd212107f441f1b5524ab66</sys_scope>
+        <sys_update_name>sys_script_fix_c5bc0ef69fd212107f441f1b5524ab8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-09 20:18:49</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
