@@ -23,7 +23,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cdltd_x1</source>
-        <store_correlation_id>REPOAPP0000002291</store_correlation_id>
+        <store_correlation_id>REPOAPP0000002292</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,16 +31,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-09 20:11:09</sys_created_on>
         <sys_id>ee1b8a769fd212107f441f1b5524ab66</sys_id>
-        <sys_mod_count>370</sys_mod_count>
+        <sys_mod_count>372</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-09 21:49:02</sys_updated_on>
+        <sys_updated_on>2024-12-09 21:49:33</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.186</version>
+        <version>1.1.187</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=ee1b8a769fd212107f441f1b5524ab66"/>
 </record_update>
